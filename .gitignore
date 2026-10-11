@@ -1,0 +1,20 @@
+# Compiled and generated files
+*.o
+*.obj
+*.elf
+*.exe
+*.out
+
+# Build directories
+build/
+
+# Editor temporary files
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
